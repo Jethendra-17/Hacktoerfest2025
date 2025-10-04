@@ -10,8 +10,7 @@ In this current repo, there are a lot of conflicts; we are not merging until all
 
 P.S. Star ⭐ and share this repository if you had fun!! 😍
 
-Hacktoberfest 2024
-![Event Completed](/scripts/Event_Completed_.png)
+Hacktoberfest 2025
 
 # 📌 Videos 📽️:
 
