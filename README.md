@@ -14,9 +14,9 @@ Hacktoberfest 2025
 
 # 📌 Videos 📽️:
 
-- [Hacktoberfest Intro](https://www.youtube.com/watch?v=mq_FIHdxmIk)
-- [How to pull request [Overview]](https://youtu.be/DIj2q02gvKs)
-- [Merge Conflict / comment](https://youtu.be/zOx5PJTY8CI)
+- [Hacktoberfest Intro](https://www.youtube.com/watch?v=ZJZGtXpUexQ)
+- [How to pull request [Overview]](https://www.youtube.com/watch?v=ZJZGtXpUexQ)
+- [Merge Conflict / comment](https://www.youtube.com/watch?v=ZJZGtXpUexQ)
 
 # Contribution Rules📚:
 
